@@ -31,5 +31,5 @@ Resultado: 30
 Desejar fazer outro cálculo ?(S/N): N
 
 ## Autor
-GitHub: @CaioAraujoDev
+GitHub: @CaioAraujoDev  
 Gmail: caiodev99@gmail.com
